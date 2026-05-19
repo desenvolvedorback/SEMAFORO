@@ -2,6 +2,8 @@
 Este projeto é uma evolução do semáforo básico com Arduino. Foi desenvolvido para treinar conceitos intermédios de automação e lógica de programação, como a leitura de entradas digitais (digitalRead), o uso de resistores internos (INPUT_PULLUP) e técnicas para evitar o travamento do código por completo com a função delay().
 
 O sistema funciona em modo cíclico normal (Verde -> Amarelo -> Vermelho), mas monitoriza um botão de pedestres em tempo real. Se o botão for pressionado enquanto o sinal está verde para os carros, o Arduino interrompe o tempo de espera e acelera a abertura do sinal fechado para a travessia dos pedestres.
+![Foto do Circuito](./circuito-v2.jpg)
+
 
 🛠️ Componentes Utilizados
 1x Placa Arduino (Uno, Nano ou Mega)
