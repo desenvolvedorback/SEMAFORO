@@ -3,7 +3,7 @@ Este é um projeto prático e simples de automação residencial/eletrônica des
 
 O projeto simula o ciclo de funcionamento de um semáforo de trânsito comum utilizando três LEDs (Vermelho, Amarelo e Verde) que alternam seus estados baseados em intervalos de tempo definidos via código.
 
-![Foto do Circuito](./circuito.jpg)
+![Foto do Circuito](./Epic-Juttuli-Uusam.png)
 
 
 
