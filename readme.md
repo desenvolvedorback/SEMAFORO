@@ -29,6 +29,9 @@ Pino Digital 2: Botão de Pedestres (Conectado diretamente ao GND)
 
 GND (Terra): Comum para todos os catodos dos LEDs (via resistores) e para o botão.
 
+circuito online:
+https://www.tinkercad.com/things/1qB56QXTeql-semaforo
+
 💻 Código-Fonte (SEMAFORO-ARDUINO.ino)
 O grande destaque deste código é a divisão do tempo do LED Verde em pequenos blocos dentro de um ciclo for. Isso permite que o Arduino verifique o estado do botão várias vezes por segundo, quebrando a limitação tradicional da função delay().
 
