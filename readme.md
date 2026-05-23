@@ -5,7 +5,7 @@ Este projeto simula o ciclo completo de sincronização de um **cruzamento viár
 O código gerencia o acendimento simultâneo dos sinais opostos (Via A e Via B), alternando entre os estados de Siga (Verde), Atenção (Amarelo) e Pare (Vermelho) sem deixar brechas de segurança.
 
 
-![Foto do Circuito](./Epic-Juttuli-Uusam.png)
+![Foto do Circuito](./projeto.png)
 
 ---
 
